@@ -8,9 +8,9 @@ visualizar o registro. E a galera do Financeiro? Eles têm dois níveis: um que 
 <p>Não esqueça o crud dos usuarios e o crud do Administrador, Moderador e Financeiro separado.
 Recomendo usar o MySQL, porque tá casando direitinho com Laravel.</p>
 
-<h1>Aqui vai um resumo do que precisa:
-Laravel 10.
-Autenticação com Laravel Passport.
-ACL para controlar os níveis de acesso.
+<h1>Aqui vai um resumo do que precisa: <br />
+Laravel 10. <br />
+Autenticação com Laravel Passport. <br />
+ACL para controlar os níveis de acesso. <br />
 Token de autenticação tipo Bearer.
 </h1>

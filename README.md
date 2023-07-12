@@ -4,6 +4,8 @@
 
 - TypeScrip
 - JavaScript
+- Node.JS
+- React
 - C#
 - ASP.NET Core MVC
 - .NET Core

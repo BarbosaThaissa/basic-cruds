@@ -11,6 +11,7 @@ namespace project.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime EnrollmentDate { get; set; }
+        public string CouserName { get; set; }
 
         public virtual ICollection<Enrollment> Enrollments { get; set; }
     }
